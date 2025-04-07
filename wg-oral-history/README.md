@@ -9,8 +9,8 @@ WG Oral History is responsible collecting oral history stories from the communit
 ## Members
 
 * Ty McDuffie, Griot and Grits
-* Rickey Thomas, Film Maker
-* David Walker, Red Hat
+* Rickey Thomas, Film Maker (Rickey-Pr-Edit-or)
+* David Walker, Red Hat (DavidWalker5)
 * Stella Ihenacho, Red Hat
-* Kena Spencer, Red Hat
+* Kena Spencer, Red Hat (krs27925)
 * Demethria Ramseur (**[@dramseur](https://github.com/dramseur)**), Red Hat
