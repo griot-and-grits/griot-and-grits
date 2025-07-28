@@ -1,4 +1,4 @@
-# Griot & Grits – Family Preservation File Workflow
+# Griot & Grits – Family Preservation File
 
 ## Overview
 
