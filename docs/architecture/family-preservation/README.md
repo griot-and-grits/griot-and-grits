@@ -5,6 +5,7 @@
 **Griot & Grits** enables families to securely **preserve, view, and update their family history** using an AI-assisted, privacy-first workflow.  
 All data is processed locally or in-memory and **never stored in the cloud** unless the user explicitly chooses to do so.
 
+**Scroll down to see the workflow.**
 ---
 
 ## How It Works
@@ -64,5 +65,9 @@ All data is processed locally or in-memory and **never stored in the cloud** unl
 - Incrementally update family records, maintaining privacy and versioning.
 
 ---
+## Architecture
+
+### Workflow
+![Family Preservation Workflow](https://github.com/griot-and-grits/griot-and-grits/raw/main/docs/architecture/family-preservation/Griot%20and%20Grits%20_%20Family%20Preservation%20File.jpg)
 
 **Griot & Grits** 2025
