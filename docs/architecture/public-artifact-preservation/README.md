@@ -4,7 +4,7 @@ Griot & Grits enables the preservation and sharing of **public artifacts**—suc
 
 ---
 
-## User Flows
+## Initial User Flows
 
 ### 1. Admin – Upload New Artifact
 
@@ -51,11 +51,13 @@ Griot & Grits enables the preservation and sharing of **public artifacts**—suc
 
 ## Architecture
 
+<img width="1584" height="1077" alt="PublicArchive" src="https://github.com/user-attachments/assets/9f141409-333d-4275-888c-5c301f94f3e4" />
+
 
 - **Transcription Service**: Converts audio/video to text for metadata extraction.
 - **GenAI**: Enhances content, fills narrative gaps.
 - **S3**: Stores raw and processed artifacts.
-- **MongoDB** (see architecture diagram): Indexes metadata for fast search.
+- **MongoDB** Indexes metadata for fast, unstructured search
 
 ---
 
@@ -65,9 +67,6 @@ Griot & Grits enables the preservation and sharing of **public artifacts**—suc
 - **AI-Driven Story Enhancement:** Public domain information and generative AI enhance the artifact experience.
 - **Searchable Library:** Stories and artifacts can be searched and filtered by event, person, or context.
 - **Secure & Scalable Architecture:** Built with modern backend, storage, and AI/LLM services.
-
----
-
 
 
 ---
