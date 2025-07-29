@@ -57,10 +57,15 @@ Griot & Grits enables the preservation and sharing of **public artifacts**—suc
 - **Transcription Service**: Converts audio/video to text for metadata extraction.
 - **GenAI**: Enhances content, fills narrative gaps.
 - **S3**: Stores raw and processed artifacts.
-- **MongoDB** Indexes metadata for fast, unstructured search
+- **MongoDB** Indexes metadata for fast, unstructured search (changing metadata)
 
 ---
 
+## Visuals
+### User and backend flows for artifact upload/search  
+  ![User Flow](https://github.com/user-attachments/assets/11133541-479c-434a-910b-872eb5a1b84d)
+
+  
 ## Key Features
 
 - **Automated Transcription & Metadata Extraction:** All media is transcribed and enriched for discovery.
