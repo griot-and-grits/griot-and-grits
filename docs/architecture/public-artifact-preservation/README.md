@@ -50,8 +50,7 @@ Griot & Grits enables the preservation and sharing of **public artifacts**—suc
 ---
 
 ## Architecture
-
-<img width="1584" height="1077" alt="PublicArchive" src="https://github.com/user-attachments/assets/9f141409-333d-4275-888c-5c301f94f3e4" />
+<img width="1584" height="1077" alt="PublicArchive(1)" src="https://github.com/user-attachments/assets/2f448b7b-1b09-406e-992f-220650ff5a35" />
 
 
 - **Transcription Service**: Converts audio/video to text for metadata extraction.
