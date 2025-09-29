@@ -14,4 +14,3 @@ WG Oral History is responsible collecting oral history stories from the communit
 * Stella Ihenacho, Red Hat
 * Kena Spencer, Red Hat (krs27925)
 * Demethria Ramseur (**[@dramseur](https://github.com/dramseur)**)
- *** See what I did ****
